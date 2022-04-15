@@ -1,0 +1,12 @@
+breathe
+sphinx
+sphinx_rtd_theme
+pygments-mathematica
+sphinxcontrib-bibtex
+pybtex
+sphinxcontrib-moderncmakedomain
+sphinxcontrib-svg2pdfconverter
+# sphinx_material
+# recommonmark
+gitpython
+docutils<0.18
